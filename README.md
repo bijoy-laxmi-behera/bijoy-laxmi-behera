@@ -24,11 +24,3 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BijoyLaxmiBehera) 
   [![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)](https://raw.githubusercontent.com/bijoy-laxmi-behera/bijoy-laxmi-behera/main/assets/upi-qr.jpeg)
-
-  <p align="center">
-  <img src="assets/upi-qr.jpeg" width="180" alt="UPI QR Code"/>
-</p>
-
-<p align="center">
-  <b>UPI ID:</b> bijoy.2017pp@oksbi
-</p>
