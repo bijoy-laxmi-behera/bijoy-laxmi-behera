@@ -21,3 +21,16 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BijoyLaxmiBehera) 
   [![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)](https://raw.githubusercontent.com/bijoy-laxmi-behera/bijoy-laxmi-behera/main/assets/upi-qr.jpeg)
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:1E90FF&height=220&section=header&text=Rojalin%20Mohanty&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Rojalin%20Mohanty&fontSize=50&color=0:00C7B7,100:007CF0&stroke=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MERN%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
