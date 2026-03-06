@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:1E90FF&height=220&section=header&text=Rojalin%20Mohanty&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:1E90FF&height=220&section=header&text=Bijoy%20Laxmi%20Behera&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 # 💫 About Me:
